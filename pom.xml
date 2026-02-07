@@ -66,5 +66,16 @@
             <artifactId>commons-io</artifactId>
             <version>2.21.0</version>
         </dependency>
+        <!-- Lecture 3-->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.21.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.42</version>
+        </dependency>
     </dependencies>
 </project>
